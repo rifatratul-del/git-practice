@@ -1,0 +1,9 @@
+Git Concepts
+
+Repository = A project tracked by Git
+
+Commit = A saved snapshot of changes
+
+Branch = A separate line of development
+
+GitHub = A platform for hosting Git repositories
